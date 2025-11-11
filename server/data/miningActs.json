@@ -1,0 +1,74 @@
+[
+  {
+    "act": "Mines Act, 1952",
+    "section": "Section 2(j)",
+    "title": "Definition of 'Mine'",
+    "text": "A 'mine' means any excavation where any operation for the purpose of searching for or obtaining minerals has been or is being carried on, and includes (i) all borings, boreholes and oil wells; (ii) all shafts, in or adjacent to and belonging to a mine, whether in the course of being sunk or not; (iii) all levels and inclines in the course of being driven; (iv) all open cast workings; (v) all conveyors or aerial ropeways provided for the bringing into or removal from a mine of minerals or other articles or for the removal of refuse from the mine; (vi) all adits, levels, planes, machinery, works, railways, tramways and sidings, in or adjacent to and belonging to a mine; (vii) all workshops situated within the precincts of a mine and under the same management and used solely for purposes connected with that mine or a number of mines under the same management; (viii) all power stations for supplying electricity solely for the purpose of working the mine or a number of mines under the same management; (ix) any premises for the time being used for depositing refuse from a mine, or in which any operation in connection with such refuse is being carried on, being premises exclusively occupied by the owner of the mine; (x) unless exempted by the Central Government by notification in the Official Gazette, any premises or part thereof, in or adjacent to and belonging to a mine, on which any process ancillary to the getting, dressing or preparation for sale of minerals or of coke is being carried on.",
+    "tags": ["definition", "mine", "excavation", "minerals", "borings", "shafts", "levels", "open cast", "conveyors", "workshops", "power stations", "refuse"]
+  },
+  {
+    "act": "Mines Act, 1952",
+    "section": "Section 22",
+    "title": "Notice of Accident",
+    "text": "When any accident occurs in or about a mine causing loss of life or serious bodily injury, or which results in the death of any person, or which is of such a nature as may be prescribed, the owner, agent or manager of the mine shall forthwith inform the prescribed authorities and shall, within twenty-four hours of the occurrence of the accident, send a notice thereof in the prescribed form to the prescribed authority. Where an accident causing disablement is of such a kind or so serious that it is likely to prevent the person disabled from returning to his work during the forty-eight hours immediately following the accident, notice thereof shall be sent to the prescribed authority within twenty-four hours of the expiry of the said forty-eight hours.",
+    "tags": ["accident", "notice", "injury", "reporting", "death", "disablement"]
+  },
+  {
+    "act": "Mines Rules, 1955",
+    "section": "Rule 29",
+    "title": "Drinking Water",
+    "text": "In every mine, effective arrangements shall be made to provide and maintain at suitable points conveniently situated a sufficient supply of cool and wholesome drinking water for all persons employed therein. The quantity of drinking water to be provided shall be at least two litres for every person employed in the mine and shall be available throughout the working shift. The water shall be supplied in clean and hygienic containers and shall be periodically tested for its wholesomeness.",
+    "tags": ["water", "drinking water", "health", "welfare", "hygiene"]
+  },
+  {
+    "act": "Mines Rules, 1955",
+    "section": "Rule 42",
+    "title": "First-aid Stations",
+    "text": "At every mine, there shall be provided and maintained so as to be readily accessible during all working hours first-aid stations of such standard and in such number as may be prescribed. Every first-aid station shall be in the charge of a person trained in first-aid treatment and shall be equipped with such articles as may be prescribed. A notice shall be posted in a conspicuous place at every mine indicating the location of the first-aid station and the name of the person in charge.",
+    "tags": ["first-aid", "medical", "health", "safety", "emergency"]
+  },
+  {
+    "act": "Coal Mines Regulations, 2017",
+    "section": "Regulation 104",
+    "title": "Ventilation",
+    "text": "It shall be the duty of the manager of every mine to ensure that an adequate amount of ventilation is constantly produced in every part of the mine to clear away smoke and steam and dilute inflammable or noxious gases to make them harmless. The quantity of air shall be measured at least once in every fourteen days at the main intake and return airways and at or near the face of every working place. The measurements shall be entered in a bound paged book kept for the purpose.",
+    "tags": ["ventilation", "air", "gases", "safety", "cmr", "measurement"]
+  },
+  {
+    "act": "Coal Mines Regulations, 2017",
+    "section": "Regulation 143",
+    "title": "Duties of Shot-firer",
+    "text": "A shot-firer shall, before firing a shot, see that all persons in the vicinity have taken proper shelter, and he shall also take suitable shelter himself. He shall not fire a shot in any place where there is a likelihood of an explosion of inflammable gas or coal dust. Before firing a shot, he shall give a warning by shouting 'Fire' and shall see that all persons have withdrawn from the danger zone.",
+    "tags": ["shot-firer", "blasting", "explosives", "safety", "cmr", "warning"]
+  },
+  {
+    "act": "Mines Act, 1952",
+    "section": "Section 28",
+    "title": "Weekly Day of Rest",
+    "text": "No person shall be allowed to work in a mine for more than six days in any one week. A person who has, by reason of an exemption under section 38, worked for more than six days in a week shall be given, for each day of overtime, a compensatory day of rest within that or the two following weeks.",
+    "tags": ["work hours", "rest", "leave", "weekly off", "overtime"]
+  },
+  {
+    "act": "Mines Act, 1952",
+    "section": "Section 30",
+    "title": "Hours of work for adults",
+    "text": "No adult employed above ground in a mine shall be required or allowed to work for more than forty-eight hours in any week or for more than nine hours in any day. The periods of work of any such adult shall be so arranged that, along with his intervals for rest, they shall not in any day spread over more than twelve hours.",
+    "tags": ["work hours", "adults", "daily limit", "weekly limit", "rest intervals"]
+  },
+  {
+    "act": "Mines Rules, 1955",
+    "section": "Rule 62",
+    "title": "Canteens",
+    "text": "At any mine wherein more than two hundred and fifty persons are ordinarily employed, a canteen shall be provided and maintained for the use of persons employed therein. The canteen shall be situated in a clean and hygienic locality and shall be adequately lighted and ventilated. The canteen shall be managed by a managing committee consisting of representatives of the management and of the persons employed in the mine.",
+    "tags": ["canteen", "welfare", "food", "facilities", "hygiene"]
+  },
+  {
+    "act": "Coal Mines Regulations, 2017",
+    "section": "Regulation 48",
+    "title": "Code of Practice for Prevention of Fire",
+    "text": "The manager shall, in respect of every mine, draw up a code of practice for the prevention, control and combating of fire or spontaneous heating. The code of practice shall be submitted to the Chief Inspector for approval and shall be enforced at the mine. The code of practice shall provide for the measures to be taken to prevent, detect, control and combat fire or spontaneous heating.",
+    "tags": ["fire", "safety", "prevention", "spontaneous heating", "cmr", "code of practice"]
+  }
+]
+
+
